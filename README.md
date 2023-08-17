@@ -4,4 +4,4 @@ Algumas atividades/mini projetos feitos em Python durante o curso feito na Hasht
 
 Nessas ativivades utilizo algumas bibliotecas do python como:
 
-Selenium, Pandas , Tkinter
+Selenium, Pandas , Os, Win32
